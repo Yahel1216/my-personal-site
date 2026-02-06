@@ -142,22 +142,7 @@ comments:
     issueTerm: "pathname"
     label: "comment"
     theme: "preferred-color-scheme"
-  waline:
-    serverURL: ""
-    lang: "zh-CN"
-  artalk:
-    server: ""
-    site: ""
-    locale: "zh-CN" # String|Object|"auto"
-    darkMode: "auto"
-    gravatar:
-      mirror: "https://cravatar.cn/avatar/"
-  twikoo:
-    envId: ""
-    region: "ap-shanghai"
-    path: ""
-    lang: "zh-CN"
-
+  
 # Analytics
 analytics:
   enabled: false
