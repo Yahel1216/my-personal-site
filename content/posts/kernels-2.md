@@ -12,7 +12,7 @@ categories: ["Machine Learning", "Kernels"]
 > [!info] Prerequisites
 > *   **Analysis:** Basic Fourier Analysis (transforms, exponentials).
 > *   **Probability:** Concentration inequalities (Hoeffding), expectation, and Gaussian distributions.
-> *   **Kernel Methods:** Familiarity with the basic kernel trick (see [previous post](/posts/kernel-1/)).
+> *   **Kernel Methods:** Familiarity with the basic kernel trick (see [previous post]({{< rel url="posts/kernel-1" >}})).
 
 In the previous post, we introduced the idea of kernels as a way to lift a separation problem to a much larger space (potentially infinite-dimensional) while keeping the computation tractable via the "Kernel Trick." We also mentioned that when the number of points in the dataset is very large—which is the case in most modern applications—the kernel method is less useful, as it requires computing and storing a huge $n \times n$ matrix.
 

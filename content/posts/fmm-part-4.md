@@ -10,7 +10,7 @@ tags: ["theory", "matrix-multiplication", "tensors"]
 categories: ["Theory", "Matrix Multiplication"]
 ---
 > [!info] Prerequisites
-> *   **[Part 3](/posts/fmm-3):** Familiarity with Tensor Rank, Direct Sums, and Tensor Products.
+> *   **[Part 3]({{< rel url="posts/fmm-3" >}}):** Familiarity with Tensor Rank, Direct Sums, and Tensor Products.
 > *   **Combinatorics:** Basic understanding of the Multinomial Theorem.
 > *   **Asymptotic Analysis:** Limits and roots of polynomials.
 

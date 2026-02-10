@@ -10,7 +10,7 @@ tags: ["theory", "matrix-multiplication", "tensors"]
 categories: ["Theory", "Matrix Multiplication"]
 ---
 > [!note] Prerequisites
-> *   **[Part 1 of this series](/posts/fmm-1):** Familiarity with standard Matrix Multiplication (MM) and $\omega$.
+> *   **[Part 1 of this series]({{< rel url="posts/fmm-1" >}}):** Familiarity with standard Matrix Multiplication (MM) and $\omega$.
 > *   **Linear Algebra:** Vector spaces, Bases, Dual spaces, and Tensor Products (basic definition).
 > *   **Abstract Algebra:** Fields and Polynomial rings (helpful for the tensor intuition).
 

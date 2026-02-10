@@ -26,7 +26,7 @@ This method is based on Grothendieck's inequality, which has turned out to be a 
 > A Hilbert space is a vector space with an inner product, which is also **complete**. Every finite dimensional inner product space is complete. Completeness means that Cauchy sequences converge (if $\left\lVert x_{n}-x_{m} \right\rVert\to 0$ then the sequence $(x_n)$ has a limit point).
 
 > [!note] Reminder
-> Let $\mathcal{H}$ denote a Hilbert space and $u,v\in \mathcal{H}$, then $\left\langle u,v \right\rangle^{k}=\left\langle u^{\otimes k},v^{\otimes k} \right\rangle$ where $u^{\otimes k},v^{\otimes k}\in \mathcal{H}^{\otimes k}$ are elements in the tensor product space. For more background on tensor products see this [post](/posts/fmm-2) where the tensor product of vector spaces is discussed, and for the proof of the assertion made here see this [post](/posts/kernel-3/#as-tensor-products) where the polynomial kernel is discussed.
+> Let $\mathcal{H}$ denote a Hilbert space and $u,v\in \mathcal{H}$, then $\left\langle u,v \right\rangle^{k}=\left\langle u^{\otimes k},v^{\otimes k} \right\rangle$ where $u^{\otimes k},v^{\otimes k}\in \mathcal{H}^{\otimes k}$ are elements in the tensor product space. For more background on tensor products see this [post]({{< rel url="posts/fmm-2" >}}) where the tensor product of vector spaces is discussed, and for the proof of the assertion made here see this [post]({{< rel url="posts/kernel-3/#as-tensor-products" >}}) where the polynomial kernel is discussed.
 
 The main identity we need is:
 

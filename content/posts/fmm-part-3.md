@@ -10,7 +10,7 @@ tags: ["theory", "matrix-multiplication", "tensors"]
 categories: ["Theory", "Matrix Multiplication"]
 ---
 > [!note] Prerequisites
-> *   **[Part 2 of this series](/posts/fmm-2):** Familiarity with the tensor product of vector spaces and bilinear algorithms.
+> *   **[Part 2 of this series]({{< rel url="posts/fmm-2" >}}):** Familiarity with the tensor product of vector spaces and bilinear algorithms.
 > *   **Linear Algebra:** Vector spaces, Bases, Dual spaces, and Tensor Products (basic definition).
 
 In this post, we continue building the foundation for fast matrix multiplication algorithms. We will discuss essential tensor operations—product, sum, and restriction—and establish the Triple Product Condition, setting the stage for the group-theoretic approach.
