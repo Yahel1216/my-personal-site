@@ -1,0 +1,17 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Black Circle -->
+  <circle cx="100" cy="100" r="90" fill="black" />
+
+  <!-- White Initials Centered -->
+  <text x="100"
+        y="100"
+        text-anchor="middle"
+        dominant-baseline="middle"
+        font-family="'Montserrat', 'Poppins', 'Helvetica Neue', Arial, sans-serif"
+        font-size="85"
+        fill="white"
+        font-weight="600"
+        letter-spacing="2">
+    YU
+  </text>
+</svg>

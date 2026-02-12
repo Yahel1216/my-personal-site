@@ -6,7 +6,7 @@ author:
   name: "Yahel Uffenheimer"
   title: "Computer Science PhD Student at the Hebrew University of Jerusalem"
   description: ""
-  avatar: "/images/avatar.svg"
+  avatar: "images/profile.jpg"
   social:
     - name: "Email"
       url: "mailto:yahel.uffenheimer@mail.huji.ac.il"

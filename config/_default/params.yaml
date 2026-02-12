@@ -4,19 +4,18 @@ keywords: ["Personal Website", "Academia", "Blog", "Computer Science", "Mathemat
 defaultAuthor: "Yahel Uffenheimer"
 language: "en-US"
 shortName: "Yahel Uffenheimer" 
-images:
-  - "/images/og-default.avif"
 
 # Favicon
 favicon:
-  svg: "/graph.svg"  # SVG format favicon (recommended)
+  svg: "images/icon.svg"
+  # svg: "/.svg"  # SVG format favicon (recommended)
 
 # Author info
 author:
   name: "Yahel Uffenheimer"
   title: "PhD student at HUJI"
   description: "Personal website of Yahel Uffenheimer, a PhD student in Computer Science at the Hebrew University of Jerusalem. Exploring research in Algorithm Design, Algebraic Computation, and Randomized Linear Algebra. Featuring a technical blog with deep dives into theoretical computer science papers, machine learning ideas and mathematical theory."
-  avatar: "/images/avatar.svg"
+  avatar: "images/profile.jpg"
   social:
     - name: "Email"
       url: "mailto:yahel.uffenheimer@mail.huji.ac.il"
